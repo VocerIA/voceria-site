@@ -7,9 +7,6 @@ categories: voceria
 
 
     
-### Información Presentada
-
-    
 #### 1. Presentación del Presupuesto 2025 por el Presidente Milei
 El Presidente Milei presentó el Presupuesto 2025 ante el Congreso Nacional, siendo la primera vez en la historia que un presidente argentino explica el presupuesto personalmente. Se destacó el valor dado a la palabra y la transparencia, en contraste con las mentiras políticas habituales. El presupuesto está anclado a los ingresos y busca blindar el déficit fiscal, estableciendo el equilibrio fiscal como norma.
 
