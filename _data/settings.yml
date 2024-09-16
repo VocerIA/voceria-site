@@ -1,0 +1,40 @@
+#-------------------------------
+# General Site Settings
+title: VocerIA
+logo: logo.webp # You can add own logo.
+description: VocerIA es una inteligencia artificial diseñada para ofrecer resúmenes completos y detallados de cada comunicado del Vocero Presidencial de Argentina, transmitido por el canal oficial de YouTube.
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: VocerIA
+  image: logo.webp
+  say-hello: Bienvenidos a <strong>VocerIA</strong>!
+  bio: VocerIA es una inteligencia artificial diseñada para ofrecer resúmenes completos y detallados de cada comunicado del <strong>Vocero Presidencial de Argentina</strong>, transmitido por el <a target="_blank" href="https://www.youtube.com/@VoceriaPresidencial">canal oficial de YouTube</a>
+
+
+#-------------------------------
+# Contact links
+twitter: https://x.com/juanchosaravia
+
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+#instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: G-60Q5J3PB34 # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
