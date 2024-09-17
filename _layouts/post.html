@@ -94,7 +94,7 @@ layout: default
         {% if page.previous.description %}
           {{ page.previous.description }}
         {% else %}
-          {{ page.previous.content | strip_html | truncate: 110 }}
+          {{ page.previous.content | markdownify | strip_html | truncate: 110 }}
         {% endif %}
       </p>
     </div>
@@ -110,7 +110,7 @@ layout: default
         {% if page.next.description %}
           {{ page.next.description }}
         {% else %}
-          {{ page.next.content | strip_html | truncate: 110 }}
+          {{ page.next.content | markdownify | strip_html | truncate: 110 }}
         {% endif %}
       </p>
     </div>
